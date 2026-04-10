@@ -2,7 +2,7 @@
 
 #Layoffs Data Analytics Project
 
-![Project Banner!(reports/Dashboard_Overview.png}
+[Project Banner]![reports/Dashboard_Overview.png]
 
 
 
